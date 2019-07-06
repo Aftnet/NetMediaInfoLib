@@ -7,4 +7,4 @@ Get media metadata from online repositories and tag files with it
 
 ## Usage
 
-Coming soon
+Coming soon now
