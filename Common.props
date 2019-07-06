@@ -1,0 +1,14 @@
+﻿<Project>
+  <PropertyGroup>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Authors>Alberto Fustinoni</Authors>
+    <PackageProjectUrl>https://github.com/Aftnet/NetMediaInfoLib</PackageProjectUrl>
+    <PackageLicense>https://raw.githubusercontent.com/Aftnet/NetMediaInfoLib/master/License.txt</PackageLicense>
+    <PackageIconUrl>https://raw.githubusercontent.com/Aftnet/NetMediaInfoLib/master/Logo.png</PackageIconUrl>
+    <RepositoryUrl>https://github.com/Aftnet/NetMediaInfoLib</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageTags>Tagging Media Files</PackageTags>
+    <Version>0.1.0-beta</Version>
+    <NeutralLanguage>en-US</NeutralLanguage>
+  </PropertyGroup>
+</Project>
